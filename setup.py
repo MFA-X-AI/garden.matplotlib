@@ -4,6 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
+    name="garden-matplotlib-mfa-x-ai",
     version="1.0.0",
     author="https://github.com/kivy-garden/garden.matplotlib",
     description="Just a setup to get this online",
